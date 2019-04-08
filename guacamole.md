@@ -2,5 +2,6 @@
 - avocado 
 - like 
 - salt
+- lime
 #Ingredients 
 
