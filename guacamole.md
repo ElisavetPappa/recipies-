@@ -1,1 +1,6 @@
-ca
+#Instructions
+- avocado 
+- lemon 
+- salt
+#Ingredients 
+
